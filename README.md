@@ -1,2 +1,2 @@
 # Python_Scripts
-All about python script
+All about python scripts
