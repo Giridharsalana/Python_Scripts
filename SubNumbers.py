@@ -6,4 +6,4 @@ num2 = input("Enter Second Number?\n")
 #Addition
 sumall = float(num1)-float(num2) 
 #Output Sum to stdout
-print('The difference of {0} and {1} is {2}'.format(num1,num2,sumall))i
+print('The difference of {0} and {1} is {2}'.format(num1,num2,sumall))
